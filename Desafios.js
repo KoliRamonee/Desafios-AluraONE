@@ -49,7 +49,7 @@ function mostrarMenorMayor(listNum){
         }
     }
     console.log("Mayor:", mayor);
-    console.log("Menos:", menor);
+    console.log("Menor:", menor);
 }
 let num = [15,6,33,543,13];
 mostrarMenorMayor(num)
